@@ -1,5 +1,5 @@
 # KLEIS Laboratory
-**Knowledge, Learning, Explainability, Inference and Semantics**
+**Knowledge, Learning, Explainability, Inference and Semantics**    
 *Dipartimento di Informatica - Università di Bari Aldo Moro*
 
 ## Researchers
