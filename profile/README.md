@@ -4,7 +4,7 @@
 
 ## Researchers
 
-- Claudia [d'Amato](https://www.uniba.it/it/docenti/damato-claudia)
+- **Claudia [d'Amato](https://www.uniba.it/it/docenti/damato-claudia)** — (Lab Head)
 - Nicola [Fanizzi](https://www.uniba.it/it/docenti/fanizzi-nicola/nicola-fanizzi)
 - Roberto [Barile](https://rbarile17.github.io/robertobarile.github.io/) — PhD Student
 - Ivan [Diliso](https://ivandiliso.github.io/#/#top) — PhD Student
